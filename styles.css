@@ -211,3 +211,7 @@ a {
     width: auto;
   }
 }
+
+.hidden {
+  display: none;
+}
